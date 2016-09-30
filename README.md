@@ -4,6 +4,7 @@
 
 ```
 git clone https://github.com/discourse/discourse.git --depth 1
+cd discourse
 ./launcher bootstrap app
 ./launcher start app
 ```
